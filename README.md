@@ -36,9 +36,9 @@ For more details on **linking ABAQUS with MATLAB**, check out:
 - [ABAQUS FEA](https://youtube.com/playlist?list=PLEY0rvSAS8TSKlZw1qO3t7euKSF3NfbVQ&si=Rw68qmMcBbsaIugW)
 - [How to Link ABAQUS and MATLAB](https://www.youtube.com/video/JqrUrbQ31iU)  
 
-## Contact & Support
+## Contact
 For questions or discussions, feel free to reach out:  
-**Website:** [www.arashjenab.com](http://www.arashjenab.com)  
+**Website:** [www.arashjenab.com](http://www.arashjenab.com) | [www.jenab.ca](http://www.jenab.ca)  
 **LinkedIn:** [/ajenab](https://www.linkedin.com/in/ajenab)  
 
 ## License
